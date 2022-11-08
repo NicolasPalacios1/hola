@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<title> Ejercicio de introduccion a HTML en OpenBootcamp </title>
+<body> <ol>
+     <li> Este es mi primer comentario de dos lineas </li>
+     <li> Aprendiendo a documentar mi codigo con OpenBootcamp </li>
+    </ol>
+</body>
+<body>
+    <ul> 
+        <li> <a href="https://www.youtube.com/watch?v=QUCJ_CpkFbo&ab_channel=AzaelW3b"> Crear Página web responsive con HTML5 CSS3 Y JAVASCRIPT 2021</a></li>
+        <li> <a href="https://www.youtube.com/watch?v=JL7Wo-ASah4&ab_channel=Bluuweb"> Carrito de compras - Vanilla JavaScript y template HTML </a> </li>
+        <li> <a href="https://www.youtube.com/watch?v=SyIqlmoZipA&ab_channel=LaliMusicaVEVO"> Lali - Tu Sonrisa </a> </li>
+
+    </ul>
+</body>
